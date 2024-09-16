@@ -40,6 +40,7 @@ body {
   color: white;
   border: none;
   outline: none;
+  cursor:pointer;
 }
 .word h1 {
   font-size: 25px;
